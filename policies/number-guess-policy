@@ -1,0 +1,37 @@
+# Privacy Notice – Daily Number Guess
+
+Last updated: 25 July 2026
+
+This game is designed to be privacy-friendly.
+
+## What data this game uses
+The game stores limited data in your browser's local storage to:
+- remember if you have already played today, and
+- restore your board/results for the current day on refresh.
+
+## What data is stored
+Typical stored items:
+- a date value (UK date) indicating last play day
+- a local snapshot of your current/finished game board state for that day
+
+## What we do **not** collect
+We do not collect or store, on our servers:
+- your name or email
+- account information
+- your guesses/history in a backend database
+- precise location data
+
+## Cookies and tracking
+This game does not require cookies for core gameplay.  
+Local storage is used for gameplay state on your device.
+
+## Data retention
+Stored gameplay data remains on your device until:
+- it is overwritten by newer game data, or
+- you clear your browser storage/site data.
+
+## Your control
+You can clear this data at any time by clearing browser site data/local storage for this site.
+
+## Contact
+If you have a privacy question, contact: [your contact email]
