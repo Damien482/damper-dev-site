@@ -1,37 +1,95 @@
-# Privacy Notice – Daily Number Guess
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Daily Number Guess</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      padding: 20px;
+      background-color: #121212;
+      color: #a9a9a9;
+    }
+    h1, h2 {
+      color: #a9a9a9;
+    }
+    p, ul {
+      color: #a9a9a9;
+    }
+    a {
+      color: #89c5ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    small {
+      display: block;
+      margin-top: 20px;
+      font-size: 12px;
+      color: #a9a9a9;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for Daily Number Guess</h1>
+  <p>
+    At <strong>Daily Number Guess</strong>, we respect your privacy and keep data use minimal. This Privacy Policy explains what information is stored and how it is used.
+  </p>
 
-Last updated: 25 July 2026
+  <h2>Data Collection and Use</h2>
+  <p>
+    Daily Number Guess does not require account creation and does not collect personal data such as your name, email, or phone number.
+    Gameplay state is stored locally in your browser to support core functionality.
+  </p>
 
-This game is designed to be privacy-friendly.
+  <h2>What Is Stored Locally</h2>
+  <p>The game may store limited local data, such as:</p>
+  <ul>
+    <li>
+      A date value used to track whether you have already played on the current UK day.
+    </li>
+    <li>
+      A same-day game snapshot (board/result state) so your completed or in-progress board can be restored after refresh.
+    </li>
+  </ul>
 
-## What data this game uses
-The game stores limited data in your browser's local storage to:
-- remember if you have already played today, and
-- restore your board/results for the current day on refresh.
+  <h2>Cookies and Tracking</h2>
+  <p>
+    This site does not use cookies for gameplay.  
+    It uses browser local storage only for game state and daily play tracking.
+  </p>
 
-## What data is stored
-Typical stored items:
-- a date value (UK date) indicating last play day
-- a local snapshot of your current/finished game board state for that day
+  <h2>Data Sharing and Selling</h2>
+  <p>
+    We do not sell, rent, or share your personal data with third parties.
+    Local gameplay data remains on your device/browser.
+  </p>
 
-## What we do **not** collect
-We do not collect or store, on our servers:
-- your name or email
-- account information
-- your guesses/history in a backend database
-- precise location data
+  <h2>Third-Party Services</h2>
+  <p>
+    The game is hosted using third-party hosting infrastructure (for example, Vercel), which may process standard technical requests (such as IP address and request logs) required to serve web pages.
+    We do not operate a custom backend database for storing your guesses or player profiles.
+  </p>
 
-## Cookies and tracking
-This game does not require cookies for core gameplay.  
-Local storage is used for gameplay state on your device.
+  <h2>Your Control</h2>
+  <p>
+    You can remove stored game data at any time by clearing site data/local storage in your browser settings.
+  </p>
 
-## Data retention
-Stored gameplay data remains on your device until:
-- it is overwritten by newer game data, or
-- you clear your browser storage/site data.
+  <h2>Updates</h2>
+  <p>
+    We may update this Privacy Policy from time to time to reflect product or legal changes. Updates will be posted on this page with a revised date.
+  </p>
 
-## Your control
-You can clear this data at any time by clearing browser site data/local storage for this site.
+  <h2>Contact Us</h2>
+  <p>
+    If you have questions about this Privacy Policy, contact:
+    <a href="mailto:damper.dev@pm.me">damper.dev@pm.me</a>.
+  </p>
 
-## Contact
-If you have a privacy question, contact: [your contact email]
+  <small>Last Updated: 25th July 2026</small>
+</body>
+</html>
